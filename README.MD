@@ -8,7 +8,7 @@ This repository contains the code for my personal portfolio website. The website
 ### Languages:
 | HTML | Tailwind CSS |
 |----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="hhttps://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> |
 
 ### Project Features:
 - **Responsive Design**: Built using Tailwind CSS to ensure a consistent experience across all devices.
