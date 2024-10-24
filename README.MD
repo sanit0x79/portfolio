@@ -6,7 +6,7 @@ This repository contains the code for my personal portfolio website. The website
 ## Technologies Used
 
 ### Languages:
-| HTML | Tailwind CSS |
+| HTML | Tailwind |
 |----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind CSS" width="55" height="55"/> |
 
